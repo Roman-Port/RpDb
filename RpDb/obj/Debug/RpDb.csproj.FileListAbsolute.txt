@@ -1,0 +1,6 @@
+C:\Users\Roman\source\repos\RpDb\RpDb\bin\Debug\RpDb.dll
+C:\Users\Roman\source\repos\RpDb\RpDb\bin\Debug\RpDb.pdb
+C:\Users\Roman\source\repos\RpDb\RpDb\obj\Debug\RpDb.csprojAssemblyReference.cache
+C:\Users\Roman\source\repos\RpDb\RpDb\obj\Debug\RpDb.csproj.CoreCompileInputs.cache
+C:\Users\Roman\source\repos\RpDb\RpDb\obj\Debug\RpDb.dll
+C:\Users\Roman\source\repos\RpDb\RpDb\obj\Debug\RpDb.pdb

@@ -1,0 +1,9 @@
+C:\Users\Roman\source\repos\RpDb\Tests\bin\Debug\Tests.exe
+C:\Users\Roman\source\repos\RpDb\Tests\bin\Debug\Tests.pdb
+C:\Users\Roman\source\repos\RpDb\Tests\bin\Debug\RpDb.dll
+C:\Users\Roman\source\repos\RpDb\Tests\bin\Debug\RpDb.pdb
+C:\Users\Roman\source\repos\RpDb\Tests\obj\Debug\Tests.csprojAssemblyReference.cache
+C:\Users\Roman\source\repos\RpDb\Tests\obj\Debug\Tests.csproj.CoreCompileInputs.cache
+C:\Users\Roman\source\repos\RpDb\Tests\obj\Debug\Tests.csproj.CopyComplete
+C:\Users\Roman\source\repos\RpDb\Tests\obj\Debug\Tests.exe
+C:\Users\Roman\source\repos\RpDb\Tests\obj\Debug\Tests.pdb
